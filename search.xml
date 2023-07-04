@@ -45,6 +45,9 @@ auto_update: false # when you scroll in post, the URL will update according to h
 <p>测试数学公式</p>
 <p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>a</mi><mo>+</mo><mi>b</mi><mo>=</mo><mi>c</mi></mrow><annotation encoding="application/x-tex">a+b=c
 </annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.6667em;vertical-align:-0.0833em;"></span><span class="mord mathnormal">a</span><span class="mspace" style="margin-right:0.2222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222em;"></span></span><span class="base"><span class="strut" style="height:0.6944em;"></span><span class="mord mathnormal">b</span><span class="mspace" style="margin-right:0.2778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2778em;"></span></span><span class="base"><span class="strut" style="height:0.4306em;"></span><span class="mord mathnormal">c</span></span></span></span></span></p>
+<h3 id="测试4">测试4</h3>
+<p>添加图片<br>
+<img src="/img/%E6%96%87%E7%AB%A0%E9%85%8D%E5%9B%BE/230704%E6%B5%8B%E8%AF%95/%E9%B2%B8%E7%9A%84%E7%A7%98%E5%AF%86.jpg" alt=""></p>
 ]]></content>
       <tags>
         <tag>测试</tag>
